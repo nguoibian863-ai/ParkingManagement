@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/controller/admin/PricingServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/controller/admin/LotServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/controller/admin/ReportServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/admin.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/model/User.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/error/404.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/model/ParkingSlot.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/admin/lot-add.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/dal/UserDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/staff.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/model/ParkingLot.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/error/500.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/model/Pricing.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/controller/CssServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/home.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/WEB-INF/ConnectDB.properties</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/model/ParkingTicket.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/login.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/admin/_side.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/admin/user-add.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/admin/_head.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/controller/admin/UserServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/dal/ParkingLotDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/util/PasswordUtil.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/controller/ProfileServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/controller/admin/SlotServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/admin/ticket-list.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/web/view/admin/user-edit.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/ParkingManagement/src/java/controller/HomeServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
